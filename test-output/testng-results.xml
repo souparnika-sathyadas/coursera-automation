@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-13T09:44:47 IST" name="Suite" finished-at="2024-02-13T09:51:10 IST" duration-ms="382884">
+    <groups>
+      <group name="regression">
+        <method signature="TC_001_SearchCourses.searchCourses()[pri:1, instance:testCases.TC_003_FormDetails@5afa3c9]" name="searchCourses" class="testCases.TC_001_SearchCourses"/>
+        <method signature="TC_001_SearchCourses.applyFilters()[pri:2, instance:testCases.TC_003_FormDetails@5afa3c9]" name="applyFilters" class="testCases.TC_001_SearchCourses"/>
+        <method signature="TC_002_LanguageLearning.searchLanguageLearning()[pri:4, instance:testCases.TC_003_FormDetails@5afa3c9]" name="searchLanguageLearning" class="testCases.TC_002_LanguageLearning"/>
+        <method signature="TC_003_FormDetails.navigateToForm()[pri:6, instance:testCases.TC_003_FormDetails@5afa3c9]" name="navigateToForm" class="testCases.TC_003_FormDetails"/>
+      </group> <!-- regression -->
+      <group name="sanity">
+        <method signature="TC_001_SearchCourses.coursesDetails()[pri:3, instance:testCases.TC_003_FormDetails@5afa3c9]" name="coursesDetails" class="testCases.TC_001_SearchCourses"/>
+        <method signature="TC_002_LanguageLearning.printCoursesCount()[pri:5, instance:testCases.TC_003_FormDetails@5afa3c9]" name="printCoursesCount" class="testCases.TC_002_LanguageLearning"/>
+        <method signature="TC_003_FormDetails.fillFormWithInvalidInput()[pri:7, instance:testCases.TC_003_FormDetails@5afa3c9]" name="fillFormWithInvalidInput" class="testCases.TC_003_FormDetails"/>
+        <method signature="TC_003_FormDetails.validateErrorMessage()[pri:8, instance:testCases.TC_003_FormDetails@5afa3c9]" name="validateErrorMessage" class="testCases.TC_003_FormDetails"/>
+      </group> <!-- sanity -->
+      <group name="masters">
+        <method signature="TC_001_SearchCourses.searchCourses()[pri:1, instance:testCases.TC_003_FormDetails@5afa3c9]" name="searchCourses" class="testCases.TC_001_SearchCourses"/>
+        <method signature="TC_001_SearchCourses.applyFilters()[pri:2, instance:testCases.TC_003_FormDetails@5afa3c9]" name="applyFilters" class="testCases.TC_001_SearchCourses"/>
+        <method signature="TC_001_SearchCourses.coursesDetails()[pri:3, instance:testCases.TC_003_FormDetails@5afa3c9]" name="coursesDetails" class="testCases.TC_001_SearchCourses"/>
+        <method signature="TC_002_LanguageLearning.searchLanguageLearning()[pri:4, instance:testCases.TC_003_FormDetails@5afa3c9]" name="searchLanguageLearning" class="testCases.TC_002_LanguageLearning"/>
+        <method signature="TC_002_LanguageLearning.printCoursesCount()[pri:5, instance:testCases.TC_003_FormDetails@5afa3c9]" name="printCoursesCount" class="testCases.TC_002_LanguageLearning"/>
+        <method signature="TC_003_FormDetails.navigateToForm()[pri:6, instance:testCases.TC_003_FormDetails@5afa3c9]" name="navigateToForm" class="testCases.TC_003_FormDetails"/>
+        <method signature="TC_003_FormDetails.fillFormWithInvalidInput()[pri:7, instance:testCases.TC_003_FormDetails@5afa3c9]" name="fillFormWithInvalidInput" class="testCases.TC_003_FormDetails"/>
+        <method signature="TC_003_FormDetails.validateErrorMessage()[pri:8, instance:testCases.TC_003_FormDetails@5afa3c9]" name="validateErrorMessage" class="testCases.TC_003_FormDetails"/>
+      </group> <!-- masters -->
+    </groups>
+    <test started-at="2024-02-13T09:44:47 IST" name="Test" finished-at="2024-02-13T09:51:10 IST" duration-ms="382884">
+      <class name="testCases.TC_003_FormDetails">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_003_FormDetails@5afa3c9]" started-at="2024-02-13T09:44:48 IST" name="setup" finished-at="2024-02-13T09:45:29 IST" duration-ms="41282" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchCourses()[pri:1, instance:testCases.TC_003_FormDetails@5afa3c9]" started-at="2024-02-13T09:45:30 IST" name="searchCourses" finished-at="2024-02-13T09:45:42 IST" duration-ms="11968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchCourses -->
+        <test-method signature="applyFilters()[pri:2, instance:testCases.TC_003_FormDetails@5afa3c9]" started-at="2024-02-13T09:45:42 IST" name="applyFilters" finished-at="2024-02-13T09:45:50 IST" duration-ms="7683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applyFilters -->
+        <test-method signature="coursesDetails()[pri:3, instance:testCases.TC_003_FormDetails@5afa3c9]" started-at="2024-02-13T09:45:50 IST" name="coursesDetails" finished-at="2024-02-13T09:45:57 IST" duration-ms="6620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- coursesDetails -->
+        <test-method signature="searchLanguageLearning()[pri:4, instance:testCases.TC_003_FormDetails@5afa3c9]" started-at="2024-02-13T09:45:57 IST" name="searchLanguageLearning" finished-at="2024-02-13T09:46:12 IST" duration-ms="14918" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchLanguageLearning -->
+        <test-method signature="printCoursesCount()[pri:5, instance:testCases.TC_003_FormDetails@5afa3c9]" started-at="2024-02-13T09:46:13 IST" name="printCoursesCount" finished-at="2024-02-13T09:49:55 IST" duration-ms="222497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printCoursesCount -->
+        <test-method signature="navigateToForm()[pri:6, instance:testCases.TC_003_FormDetails@5afa3c9]" started-at="2024-02-13T09:49:56 IST" name="navigateToForm" finished-at="2024-02-13T09:51:00 IST" duration-ms="64740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToForm -->
+        <test-method signature="fillFormWithInvalidInput()[pri:7, instance:testCases.TC_003_FormDetails@5afa3c9]" started-at="2024-02-13T09:51:01 IST" name="fillFormWithInvalidInput" finished-at="2024-02-13T09:51:07 IST" duration-ms="6885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillFormWithInvalidInput -->
+        <test-method signature="validateErrorMessage()[pri:8, instance:testCases.TC_003_FormDetails@5afa3c9]" started-at="2024-02-13T09:51:08 IST" name="validateErrorMessage" finished-at="2024-02-13T09:51:08 IST" duration-ms="259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateErrorMessage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_003_FormDetails@5afa3c9]" started-at="2024-02-13T09:51:08 IST" name="tearDown" finished-at="2024-02-13T09:51:10 IST" duration-ms="1357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_003_FormDetails -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
