@@ -141,9 +141,9 @@ public class LanguageLearning extends BasePage {
 
 		Set<String> langs = new HashSet<>();
 
-		int i=0;
+//		int i=0;
 
-		for(;i<=5;i++) {
+		for(int i=0;i<5;i++) {
 
 			String value = storeonlyCharacter(AllLanguages.get(i).getText());
 

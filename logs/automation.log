@@ -1,0 +1,26 @@
+11:55:38.158 [main] INFO  testBase.BaseClass1 - searching web development
+11:55:38.970 [main] INFO  testBase.BaseClass1 - click on search button
+11:55:45.804 [main] INFO  testBase.BaseClass1 - applying language filter
+11:55:49.814 [main] INFO  testBase.BaseClass1 - applying level filter
+11:55:50.855 [main] INFO  testBase.BaseClass1 - extracting details of first two courses
+11:55:55.960 [main] INFO  testBase.BaseClass1 - Searching Language learning and applying filters
+11:56:09.036 [main] INFO  testBase.BaseClass1 - Getting course count of each language with the required filters
+11:59:58.033 [main] INFO  testBase.BaseClass1 - click on for enterprise
+12:00:04.751 [main] INFO  testBase.BaseClass1 - click on for universities
+12:00:17.349 [main] INFO  testBase.BaseClass1 - navigate to form
+12:00:27.759 [main] INFO  testBase.BaseClass1 - filling plan details page
+12:00:28.452 [main] INFO  testBase.BaseClass1 - filling account details page
+12:00:34.821 [main] INFO  testBase.BaseClass1 - extracting the error message
+09:45:48.936 [main] INFO  testBase.BaseClass1 - searching web development
+09:45:52.407 [main] INFO  testBase.BaseClass1 - click on search button
+09:46:00.475 [main] INFO  testBase.BaseClass1 - applying language filter
+09:46:03.667 [main] INFO  testBase.BaseClass1 - applying level filter
+09:46:04.552 [main] INFO  testBase.BaseClass1 - extracting details of first two courses
+09:46:09.989 [main] INFO  testBase.BaseClass1 - Searching Language learning and applying filters
+09:46:26.769 [main] INFO  testBase.BaseClass1 - Getting course count of each language with the required filters
+09:50:07.424 [main] INFO  testBase.BaseClass1 - click on for enterprise
+09:50:21.023 [main] INFO  testBase.BaseClass1 - click on for universities
+09:50:32.967 [main] INFO  testBase.BaseClass1 - navigate to form
+09:51:15.940 [main] INFO  testBase.BaseClass1 - filling plan details page
+09:51:16.877 [main] INFO  testBase.BaseClass1 - filling account details page
+09:51:23.561 [main] INFO  testBase.BaseClass1 - extracting the error message
